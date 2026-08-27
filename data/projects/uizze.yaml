@@ -1,4 +1,4 @@
 name: UIZZE
 repo: https://github.com/uizze/uizze
-tagline: Deterministic UI slop gate for OpenCode via MCP
-description: Help OpenCode avoid generic UI with 800,000+ real web and iOS screens, an anti-UI-slop agent skill, and a free MCP preview at https://uizze.com/mcp/preview.
+tagline: UI quality workflow for OpenCode with an optional authenticated MCP
+description: Help OpenCode avoid generic UI with a free anti-UI-slop Agent Skill and an optional authenticated UIZZE MCP for focused UI references from 800,000+ real web and iOS screens.
